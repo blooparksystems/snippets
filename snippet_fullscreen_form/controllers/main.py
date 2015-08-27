@@ -103,8 +103,8 @@ class contactus(http.Controller):
         for field_name, field_value in crm_data.items():
             if hasattr(field_value, 'filename'):
                 post_file.append(field_value)
-            elif field_name in request.registry[
-                'crm.lead']._fields and field_name not in _BLACKLIST:
+            elif field_name in request.registry['crm.lead']._fields and \
+                    field_name not in _BLACKLIST:
                 values[field_name] = field_value
             elif field_name not in _TECHNICAL:
                 # allow to add some free fields or blacklisted field like ID
