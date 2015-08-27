@@ -15,6 +15,7 @@ Support
 
 * Jens Holze (CEO) (jholze@bloopark.de)
 * Benjamin Bachmann (bbachmann@bloopark.de)
+* Florian Fischer (ffischer@bloopark.de)
 * Christoph Giesel (cgiesel@bloopark.de)
 * Robert Rübner (rruebner@bloopark.de)
 
