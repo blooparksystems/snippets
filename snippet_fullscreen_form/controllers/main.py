@@ -49,7 +49,6 @@ class contactus(http.Controller):
 
     def preRenderThanks(self, values, kwargs):
         """Allow to be overrided."""
-        company = request.website.company_id
         return {
             '_values': values,
             '_kwargs': kwargs,
