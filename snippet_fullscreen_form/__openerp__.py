@@ -20,7 +20,8 @@
 ##############################################################################
 {
     'name': "Fullscreen Project inquiry form",
-    'summary': """Fullscreen Form for Odoo Leads: A distraction-free form with fancy animations""",
+    'summary': """Fullscreen Form for Odoo Leads:
+    A distraction-free form with fancy animations""",
     'author': "bloopark systems GmbH & Co. KG",
     'website': "http://www.bloopark.de",
     'license': 'AGPL-3',
