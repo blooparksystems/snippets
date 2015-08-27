@@ -17,6 +17,7 @@ Support
 * Benjamin Bachmann (bbachmann@bloopark.de)
 * Christoph Giesel (cgiesel@bloopark.de)
 * Robert Rübner (rruebner@bloopark.de)
+* Mercedes Scennam (scenna@bloopark.de)
 
 <a href="http://bloopark.de/">
 <img class="oe_picture" alt="bloopark" src="http://bloopark.de/logo.png">
