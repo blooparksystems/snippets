@@ -12,11 +12,15 @@
               type="text/css"
               href="/snippet_fullscreen_form/static/src/css/main.css"/>
         <script src="/snippet_fullscreen_form/static/src/js/modernizr.custom.js"
-                type="text/javascript"></script>
-        <script src="/snippet_fullscreen_form/static/src/js/selectFx.js"></script>
-        <script src="/snippet_fullscreen_form/static/src/js/fullscreenForm.js"></script>
+                type="text/javascript/"/>
+        <script src="/snippet_fullscreen_form/static/src/js/selectFx.js"
+                type="text/javascript/"/>
+        <script src="/snippet_fullscreen_form/static/src/js/fullscreenForm.js"
+                type="text/javascript/"/>
+        <script src="/snippet_fullscreen_form/static/src/js/fullscreen_injection.js"
+                type="text/javascript/"/>
         <script src="/snippet_fullscreen_form/static/src/js/main.js"
-                type="text/javascript"></script>
+                type="text/javascript"/>
       </xpath>
     </template>
 
@@ -29,7 +33,7 @@
             <img class="oe_snippet_thumbnail_img"
                  src=""/>
             <span class="oe_snippet_thumbnail_title">
-              Image Comparisson
+              Full Screen Form
             </span>
           </div>
           <section class="oe_snippet_body">
@@ -182,7 +186,7 @@
                         <!-- /fs-fields -->
                         <div class="form-group">
                           <div class="col-md-12 text-center">
-                            <button class="btn btn-primary fs-submit"
+                            <button class="btn btn-primary fs-submit fullscreen_submit"
                                     type="submit">
                               Send Inquiry
                             </button>
